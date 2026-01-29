@@ -1,7 +1,7 @@
 package com.example.thevms;
 
 abstract public class Shape {
-    String color = "REWADWADWADW";
+    String color = "Yellow yep";
     Integer x;
     Integer y;
 }
